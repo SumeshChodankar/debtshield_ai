@@ -1,0 +1,16 @@
+name: DebtShieldAI
+version: 1.0.0
+description: "Adversarial Multi-Agent Debt Negotiation Environment"
+observation_space: Observation
+action_space: Action
+reward_space: Reward
+tasks:
+  - id: fee_waiver
+    difficulty: easy
+    grader: DebtGrader.grade_easy
+  - id: apr_reduction
+    difficulty: medium
+    grader: DebtGrader.grade_medium
+  - id: hardship_restructure
+    difficulty: hard
+    grader: DebtGrader.grade_hard

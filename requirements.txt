@@ -1,0 +1,12 @@
+streamlit
+uvicorn
+fastapi
+openai==1.12.0
+pydantic==2.6.1
+python-dotenv
+pymupdf
+pyyaml==6.0.1
+numpy==1.26.3
+uvicorn
+fastapi
+# setuptools wheel
