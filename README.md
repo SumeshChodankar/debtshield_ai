@@ -1,6 +1,3 @@
-Got you — I’ll **keep every word exactly the same** and **only fix the formatting**, spacing, code blocks, tables, and markdown structure so your README renders cleanly on GitHub **without altering your content**.
-
-Here is the **clean, stable, non‑scattering version**:
 
 ---
 
