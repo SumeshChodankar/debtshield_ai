@@ -99,7 +99,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory:
 
 ```
-OPENAI_API_KEY=sk-xxxx
+OPENAI_API_KEY=sk-
 API_BASE_URL=https://api.openai.com/v1
 MODEL_NAME=gpt-4o
 ```
